@@ -4,3 +4,9 @@ this repo created by saif eddine razzeg
 git init stage-srs
 cd stage-srs
 mkdir srs
+</> Bash
+git add
+git commit -m "initial SRS structure"
+</> Bash
+git add SRS/vision.md
+git commit -m "add vision"
