@@ -1,0 +1,4 @@
+</> Bash
+git init stage-srs
+cd stage-srs
+mkdir srs
